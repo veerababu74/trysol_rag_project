@@ -1,0 +1,22 @@
+# Web framework
+fastapi
+uvicorn
+
+# LangChain core + integrations
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-mistralai
+langchain-text-splitters
+
+# Vector stores – use FAISS only (chromadb + onnxruntime add ~300 MB)  @@@@@@@@
+faiss-cpu
+
+# Document loaders
+pypdf
+
+# Utilities
+python-dotenv
+python-multipart
+pydantic
